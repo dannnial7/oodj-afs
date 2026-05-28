@@ -1,8 +1,42 @@
 # oodj-afs
-Object Oriented Development with Java: Assessment Feedback System
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
-1. Download the .zip file
-2. Extract (unzip) the .zip file.
-3. Navigate to File > New Project > Java with Ant > Java Application > Browse to the extracted .zip file location path > Next > Finish
-4. Execute the project (Shift + F11)
-5. Voilla
+Welcome to the **Assessment Feedback System**, a comprehensive Java-based application developed for the Object Oriented Development with Java (CT038-3-2-OODJ) module at Asia Pacific University (APU).
+
+---
+
+## 🚀 Getting Started
+
+Follow these step-by-step instructions to seamlessly set up and run the project locally on your machine.
+
+### 🛠️ Prerequisites
+Before you begin, ensure you have the required environment tools installed:
+* **[Java Development Kit (JDK) 26](https://jdk.java.net/26/)**
+* **[Apache NetBeans IDE](https://netbeans.apache.org/front/main/download/)**
+
+### 📥 Installation & Setup
+
+#### Step 1: Download the Project
+Download the project source code as a `.zip` file from this repository.
+
+#### Step 2: Extract the Files
+Locate the downloaded `.zip` file and extract (unzip) its contents to a dedicated workspace folder on your computer.
+
+#### Step 3: Install Dependencies
+If you haven't already, install **Apache Netbeans** and **JDK 26** using the links provided in the prerequisites section above. Follow the standard installation prompts for your operating system.
+
+#### Step 4: Open in Apache NetBeans
+1. Launch **Apache NetBeans**.
+2. Navigate to the top menu and select `File` > `New Project`.
+3. In the categories section, select `Java with Ant`, then choose `Java Application`.
+4. Browse your directories and point the project to the **extracted `.zip` file location path**.
+5. Click **Next**, review your configurations, and click **Finish**.
+
+#### Step 5: Clean and Build
+Once the project is successfully loaded into your workspace, you need to compile the source code:
+* **Keyboard Shortcut:** Press `Shift + F11`
+* *(Alternatively, right-click the project root in the Projects window and select "Clean and Build".)*
+
+#### Step 6: Voilà! 🎉
+Your environment is now fully configured. Click the **Run Project** button (the green play icon in the toolbar) or press `F6` to launch the Assessment Feedback System. 
